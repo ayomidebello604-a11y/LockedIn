@@ -70,7 +70,7 @@ export default function LoginPage({ onLogin, onSwitchToRegister }) {
           <div className="flex flex-col items-center mb-8">
             <div className="flex items-center gap-3 mb-4">
               <HiOutlineRectangleStack className="w-8 h-8 text-blue-600" />
-              <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">ProductivityOS</h1>
+              <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">LockedInOS</h1>
             </div>
             <p className="text-center text-sm text-gray-600 dark:text-gray-400">
               Sign in to your account

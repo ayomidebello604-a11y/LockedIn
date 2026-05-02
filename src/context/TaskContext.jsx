@@ -7,7 +7,7 @@ import { createContext, useContext, useReducer, useEffect } from 'react'
 
 const TaskContext = createContext(null)
 
-const LOCAL_STORAGE_KEY = 'productivity_tasks'
+const LOCAL_STORAGE_KEY = 'LockedIn_tasks'
 
 const seedTasks = [
   { id: 'task-1', title: 'Set up Vite and React project', completed: true,  priority: 'low'    },

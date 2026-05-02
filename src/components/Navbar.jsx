@@ -50,7 +50,7 @@ export default function Navbar({ userInfo, onLogout }) {
         <div className="flex items-center gap-2 flex-shrink-0">
           <HiOutlineRectangleStack className="w-5 h-5 text-blue-600" />
           <span className="text-xs md:text-sm font-semibold text-gray-900 inline">
-            ProductivityOS
+            LockedInOS
           </span>
         </div>
 
